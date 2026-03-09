@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="header-ethereal.png" alt="ETHEREAL" width="450">
+  <img src="header-ethereal.png" alt="ETHEREAL" width="100%" style="display: block; margin: 0 auto; max-width: 100%;">
 
   <br><br>
 
@@ -10,8 +10,8 @@
 
   <br><br><br>
 
-  <h2><b>Transformando ideas en experiencias digitales de alto nivel.</b></h2>
-  <p>Desarrollo frontend moderno, interfaces responsivas y ecosistemas automatizados.</p>
+  <h2 style="font-weight: 800; font-size: 28px;"><b>Transformando ideas en experiencias digitales de alto nivel.</b></h2>
+  <p style="font-weight: 400; font-size: 16px;">Desarrollo frontend moderno, interfaces responsivas y ecosistemas automatizados.</p>
 
   <br><br>
 
@@ -20,7 +20,7 @@
   <br><br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,mysql,postgres,figma,wordpress,vscode,idea&theme=dark" alt="Tecnologías de ETHEREAL">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,mysql,postgres,figma,wordpress,vscode,idea&theme=dark&perline=6" alt="Tecnologías de ETHEREAL">
   </a>
 
   <br><br><br>
@@ -32,11 +32,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NICOLAS-img/NICOLAS-img/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NICOLAS-img/NICOLAS-img/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/NICOLAS-img/NICOLAS-img/output/github-contribution-grid-snake.svg">
+    <img alt="Pac-Man Contribution Grid" src="https://raw.githubusercontent.com/NICOLAS-img/NICOLAS-img/output/github-contribution-grid-snake.svg">
   </picture>
 
   <br><br><br>
 
-  <p style="color: #666666; font-size: 14px; font-weight: 600;">© ETHEREAL</p>
+  <p style="color: #888888; font-size: 14px; font-weight: 600;">© ETHEREAL</p>
 
 </div>
